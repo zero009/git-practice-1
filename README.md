@@ -1,2 +1,3 @@
 # git-practice
-GIT练习 
+
+GIT 提交规范
